@@ -134,12 +134,12 @@ const Contact = () => {
           }}
         >
           <directionalLight intensity={0.5} />
-          <ambientLight intensity={0.5} />
+          <ambientLight intensity={1} />
           <Suspense fallback={<Loader />}>
             <Fox
               currentAnimation={currentAnimation}
               position={[0.5, 0.35, 0]}
-              rotation={[12, 0, 0]}
+              rotation={[12.6, -0.6, 0]}
               scale={[0.5, 0.5, 0.5]}
             />
           </Suspense>
