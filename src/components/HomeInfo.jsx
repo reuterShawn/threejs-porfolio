@@ -15,22 +15,28 @@ const InfoBox = ({ text, link, btnText }) => (
 const renderContent = {
   1: (
     <InfoBox
-      text="Hellow I am Shawn, a software developer from Minnesota"
+      text="Hello I am Shawn, a software developer from Minnesota"
       link="/home"
-      btnText=""
+      btnText="Home"
     />
   ),
-  2: <InfoBox text="Worked with" link="/about" btnText="Learn More" />,
+  2: (
+    <InfoBox
+      text="I have a passion to serve others with web development"
+      link="/about"
+      btnText="Learn More"
+    />
+  ),
   3: (
     <InfoBox
-      text="Build multiple projects over the years"
+      text="Built and helped to maintain many projects over the years."
       link="/projects"
       btnText="Visit my portfolio"
     />
   ),
   4: (
     <InfoBox
-      text="Need a project done or looking for a dev? I'm just a few keystrokes away"
+      text="Need a project done or looking for a dev? I'm just a few keystrokes away!"
       link="/contact"
       btnText="Lets Talk"
     />
