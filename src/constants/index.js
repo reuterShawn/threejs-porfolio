@@ -90,7 +90,7 @@ export const experiences = [
     date: "May 2023 - Present: Contract Work",
     points: [
       "Implemented Gamipress too add gamification with Tutor LMS ",
-      "Developing and maintaining Wordpress Blog, and subscription based Christian content..",
+      "Developing and maintaining Wordpress Blog, and subscription based Christian content.",
     ],
   },
 ];
@@ -127,7 +127,7 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Car Finding App",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
+      "A mobile app for finding and comparing cars on the market, streamlining the car-buying process. Still in development",
     link: "https://github.com/reuterShawn",
   },
   {
@@ -136,6 +136,6 @@ export const projects = [
     name: "AI Summarizer Application",
     description:
       "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/reuterShawn",
+    link: "https://github.com/reuterShawn/ai-summarizer",
   },
 ];
