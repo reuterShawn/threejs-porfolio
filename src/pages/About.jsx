@@ -20,7 +20,7 @@ const About = () => {
       <div>
         <p>
           Software developer based in Minnesota in the United States
-          specializing in React, setting up ecommerce solutions{" "}
+          specializing in React, setting up ecommerce solutions
         </p>
       </div>
 
@@ -48,8 +48,9 @@ const About = () => {
         <h3 className="subhead-text">Work Experience.</h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
-            teaming up with smart people. Here's the rundown:
+            While I am just starting my career,I am continuing to level up my
+            skills and connecting with smart people to try and learn all that I
+            can. Here's the rundown:
           </p>
         </div>
 
