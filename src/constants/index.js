@@ -89,8 +89,8 @@ export const experiences = [
     iconBg: "#accbe1",
     date: "May 2023 - Present: Contract Work",
     points: [
-      "Implemented Gamipress too add gamification with Tutor LMS ",
-      "Developing and maintaining Wordpress Blog, and subscription based Christian content.",
+      "Implemented Gamipress to add gamification with Tutor LMS ",
+      "Developing and maintaining Wordpress Blog, and subscription based Christian content at my client educateforlife.org.",
     ],
   },
 ];
