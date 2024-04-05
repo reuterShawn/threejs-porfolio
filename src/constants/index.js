@@ -24,11 +24,11 @@ export const skills = [
     name: "CSS",
     type: "Frontend",
   },
-  {
-    imageUrl: express,
-    name: "Express",
-    type: "Backend",
-  },
+  // {
+  //   imageUrl: express,
+  //   name: "Express",
+  //   type: "Backend",
+  // },
   {
     imageUrl: git,
     name: "Git",
@@ -54,11 +54,11 @@ export const skills = [
     name: "MongoDB",
     type: "Database",
   },
-  {
-    imageUrl: mui,
-    name: "Material-UI",
-    type: "Frontend",
-  },
+  // {
+  //   imageUrl: mui,
+  //   name: "Material-UI",
+  //   type: "Frontend",
+  // },
   {
     imageUrl: nextjs,
     name: "Next.js",
