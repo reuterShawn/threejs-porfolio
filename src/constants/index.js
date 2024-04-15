@@ -1,5 +1,6 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
+  arrow,
   car,
   contact,
   css,
@@ -115,19 +116,11 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: car,
-    theme: "btn-back-red",
-    name: "Figma-CLone",
-    description:
-      "In process of finishing development of a Figma clone with NextJS, FrabricJS and Liveblocks",
-    link: "https://github.com/reuterShawn",
-  },
-  {
-    iconUrl: car,
+    iconUrl: arrow,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Mentor Match",
     description:
-      "A mobile app for finding and comparing cars on the market, streamlining the car-buying process. Still in development",
+      "A application to match mentors with students or other programmers eager to improve their skills with the assitance of a mentor. In development with other developers at the Software Developer Academy Pro community.",
     link: "https://github.com/reuterShawn",
   },
   {
