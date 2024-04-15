@@ -120,7 +120,7 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Mentor Match",
     description:
-      "A application to match mentors with students or other programmers eager to improve their skills with the assistance of a mentor. In development with other developers at the Software Developer Academy Pro community.",
+      "An application to match mentors with students or other programmers eager to improve their skills with the assistance of a mentor. In development with other developers at the Software Developer Academy Pro community.",
     link: "https://github.com/Software-Developer-Academy/mentor-match",
   },
   {
