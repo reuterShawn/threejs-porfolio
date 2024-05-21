@@ -91,7 +91,7 @@ export const experiences = [
     date: "May 2023 - Present: Contract Work",
     points: [
       "Implemented Gamipress to add gamification with Tutor LMS ",
-      "Developing and maintaining Wordpress Blog, and subscription based Christian content at my client educateforlife.org.",
+      "Developing and maintaining Wordpress Blog, and subscription based Christian content at my client's website educateforlife.org.",
     ],
   },
 ];
@@ -130,5 +130,13 @@ export const projects = [
     description:
       "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs. Still in development.",
     link: "https://github.com/reuterShawn/ai-summarizer",
+  },
+  {
+    iconUrl: summiz,
+    theme: "btn-back-green",
+    name: "Anime Vault",
+    description:
+      "App that leverages NextJS server actions, and showcases an infinite scroll of different anime titles along with framer motion animations.",
+    link: "https://anime-vault-git-feat-framer-motion-js-mastery-pro.vercel.app/",
   },
 ];
